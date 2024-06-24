@@ -1,5 +1,9 @@
 # Student Management System
 
+<p align="center">
+  <img src="Student_Management_System.png" width="90%">
+</p> 
+
 ## Overview
 
 The Student Management System is a project designed to manage student information effectively. This system provides features for handling various aspects of student data, ensuring a seamless and organized way to manage educational records.
